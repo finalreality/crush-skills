@@ -1,3 +1,9 @@
+---
+name: git-release
+description: 发布版本前补充ChangeLog和Readme
+license: Complete terms in LICENSE.txt
+---
+
 # Git Release Skill
 
 ## 功能描述
